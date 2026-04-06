@@ -1,1 +1,1 @@
-# -codelantern-apps.github.io
+# codelantern-apps.github.io
